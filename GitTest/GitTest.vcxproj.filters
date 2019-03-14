@@ -24,7 +24,7 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="GitTestr.h">
+    <ClInclude Include="GitTest.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
