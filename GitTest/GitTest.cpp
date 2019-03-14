@@ -13,4 +13,4 @@ int MyInfo()
 	cout << "Filatov\n";
 	cout << "RI-541215\n";
 	return 1;
-
+}

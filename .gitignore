@@ -3,3 +3,5 @@
 *.suo
 *.filtres
 *.ipch
+*.tlog
+*lastbuildstate
